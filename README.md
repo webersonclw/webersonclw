@@ -6,7 +6,7 @@
 - 🏄  First **PYTHON** module completed! 👊
 - 🏄‍♂️  **Git e GitHub!!** Finished with success!! 🤲 
 - 🧑‍🎓 Module 2 of **Python** in progress... 🤲
-- 😰 -- Getting Started **Html5 - Css3 - JavaScripT** 🤲
+- 😰  **Html5 - Css3 - JavaScripT** Finished the basic!! 🤲
 <!--- 
 webersonclw/webersonclw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
