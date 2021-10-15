@@ -22,12 +22,11 @@
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador 🔭<strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://prefeituradeatibaia.com.br">Prefeitura de Atibaia</a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
-      <li align="right">🔭 Atualmente estou estudando <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
+      <li align="left">My name is <i>Wéberson</i>, I'm Brazilian 🇧🇷, I'm in the first steps to become a programmer 🔭<strong>frontend 🔭</strong> end <strong>backend 🔭</strong>, I currently work as <strong>GCMA</strong> in the company <a href="https://prefeituradeatibaia.com.br">Prefeitura de Atibaia</a>, I'm still looking for a job in the area of ​​programming and/or Web developer.</li>
+      <li align="right">🔭 I am currently studying <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
   </article>
   <br>
-  
   <section>
      <a>
       <img height="160vw" alt="" src="https://github-readme-stats.vercel.app/api?username=webersonclw&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" />
