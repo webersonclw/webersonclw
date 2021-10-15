@@ -18,12 +18,11 @@
 -->
 
 <header>
-  <h1>Hello Sr Recruiters here are some of my first projects</h1>
-  
+  <h1>Hello Sr Recruiters here are some of my first projects</h1>  
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://www.prefeituradeatibaia.com.br/"></a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
+      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://prefeituradeatibaia.com.br"></a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
       <li align="right">🔭 Atualmente estou estudando <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
   </article>
