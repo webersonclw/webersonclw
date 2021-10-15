@@ -1,3 +1,13 @@
+<!--- 
+webersonclw/webersonclw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+<!--
+**webersonclw/webersonclw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 - 👋 Hi, I’m @webersonclw
 - 👀 I’m interested in ... LEARN PROGRAMMING AND BE ABLE TO CHANGE AREAS
 - 🌱 I’m currently learning ...PYTHON; GIT AND GITHUB; HTML5!!
@@ -9,25 +19,6 @@
 - 🏄  Third **PYTHON** In Process....  👊
 - 🏄  **Html5 - Css3 - JavaScripT** Finished the Basic!! 👊
 - 😰  **Html5 - Css3 - JavaScripT** Intermediary in Progress!! 🤲
-<!--- 
-webersonclw/webersonclw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!--
-**erikfritas/erikfritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <header>
   <h1>Hello Sr Recruiters here are some of my first projects</h1>
