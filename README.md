@@ -1,36 +1,21 @@
-- 👋 Hi, I’m @webersonclw
-- 👀 I’m interested in ... LEARN PROGRAMMING AND BE ABLE TO CHANGE AREAS
-- 🌱 I’m currently learning ...PYTHON; GIT AND GITHUB; HTML5!!
-- 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE
-- 📫 How to reach me ...https://www.linkedin.com/in/weberson-santos-3b13aa21b/
-- 🏄‍♂️  **Git e GitHub!!** Finished With Success!!  👊
-- 🏄  First **PYTHON** Module Completed! 👊
-- 🏄  Second **PYTHON** Module Completed! 👊
-- 🏄  Third **PYTHON** In Process....  👊
-- 🏄  **Html5 - Css3 - JavaScripT** Finished the Basic!! 👊
-- 😰  **Html5 - Css3 - JavaScripT** Intermediary in Progress!! 🤲
 
-<!--- 
-webersonclw/webersonclw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <!--
+  **webersonclw/webersonclw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--
-**webersonclw/webersonclw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Here are some ideas to get you started:
 
-Here are some ideas to get you started:
-
-- 👋 Hi, I’m @webersonclw
-- 👀 I’m interested in ... LEARN PROGRAMMING AND BE ABLE TO CHANGE AREAS
-- 🌱 I’m currently learning ...PYTHON; GIT AND GITHUB; HTML5!!
-- 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE
-- 📫 How to reach me ...https://www.linkedin.com/in/weberson-santos-3b13aa21b/
-- 🏄‍♂️  **Git e GitHub!!** Finished With Success!!  👊
-- 🏄  First **PYTHON** Module Completed! 👊
-- 🏄  Second **PYTHON** Module Completed! 👊
-- 🏄  Third **PYTHON** In Process....  👊
-- 🏄  **Html5 - Css3 - JavaScripT** Finished the Basic!! 👊
-- 😰  **Html5 - Css3 - JavaScripT** Intermediary in Progress!! 🤲
+  - 👋 Hi, I’m @webersonclw
+  - 👀 I’m interested in ... LEARN PROGRAMMING AND BE ABLE TO CHANGE AREAS
+  - 🌱 I’m currently learning ...PYTHON; GIT AND GITHUB; HTML5!!
+  - 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE
+  - 📫 How to reach me ...https://www.linkedin.com/in/weberson-santos-3b13aa21b/
+  - 🏄‍♂️  **Git e GitHub!!** Finished With Success!!  👊
+  - 🏄  First **PYTHON** Module Completed! 👊
+  - 🏄  Second **PYTHON** Module Completed! 👊
+  - 🏄  Third **PYTHON** In Process....  👊
+  - 🏄  **Html5 - Css3 - JavaScripT** Finished the Basic!! 👊
+  - 😰  **Html5 - Css3 - JavaScripT** Intermediary in Progress!! 🤲
+-->
 
 <header>
   <h1>Hello Sr Recruiters here are some of my first projects</h1>
@@ -38,7 +23,7 @@ Here are some ideas to get you started:
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="http://www.prefeituradeatibaia.com.br/"></a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
+      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador <strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://www.prefeituradeatibaia.com.br/"></a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
       <li align="right">🔭 Atualmente estou estudando <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
   </article>
