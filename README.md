@@ -22,7 +22,7 @@
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador 🔭<strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://prefeituradeatibaia.com.br">Prefeitura</a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
+      <li align="left">My name is <i>Wéberson</i>, Sou Brasileiro 🇧🇷, estou nos primeiros passos para me tornar um programador 🔭<strong>frontend 🔭</strong> e <strong>backend 🔭</strong>, atualmente trabalho como <strong>GCMA</strong> na empresa <a href="https://prefeituradeatibaia.com.br">Prefeitura de Atibaia</a>, ainda assim estou em busca de emprego na área de programação e ou desenvolvedor Web.</li>
       <li align="right">🔭 Atualmente estou estudando <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
   </article>
