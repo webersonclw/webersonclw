@@ -22,7 +22,8 @@
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, I'm Brazilian 🇧🇷, I'm in the first steps to become a programmer 🔭<strong>FrontEnd 🔭</strong> end 🔭<strong>BackEnd 🔭</strong>, I currently work as <strong>GCMA</strong> in the company <a href="https://prefeituradeatibaia.com.br">Prefeitura de Atibaia</a>, I'm still looking for a job in the area of ​​programming and/or Web developer.</li>
+      <li align="left">My name is <i>Wéberson</i>, I'm Brazilian 🇧🇷, I'm in the first steps to become a programmer 🔭<strong>FrontEnd 🔭</strong> and 🔭<strong>BackEnd 🔭</strong>, I currently work as <strong>GCMA</strong> in the company <a href="https://www.facebook.com/WCL.Sistemas.de.Seguranca01">WCL Sistemas de Segurança</a>, I'm still looking for a job in the area of ​​programming and/or Web developer.</li>
+      <li align="right"> <strong>Hardware and Computer Specialist Technician.</strong></li>
       <li align="right">🔭 I am currently studying <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
   </article>
