@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE
 - 📫 How to reach me ...https://www.instagram.com/webersonmalu/
 - 🏄  First **PYTHON** module completed! 👊
+- 🧑  Second **PYTHON** module completed! 👊
+- 🏄 Third **PYTHON** In Process.... 🏄
 - 🏄‍♂️  **Git e GitHub!!** Finished with success!! 🤲 
-- 🧑‍🎓 Module 2 of **Python** in progress... 🤲
 - 😰  **Html5 - Css3 - JavaScripT** Finished the basic!! 🤲
 <!--- 
 webersonclw/webersonclw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
