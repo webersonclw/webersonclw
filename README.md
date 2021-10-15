@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE
 - 📫 How to reach me ...https://www.linkedin.com/in/weberson-santos-3b13aa21b/
 - 🏄‍♂️  **Git e GitHub!!** Finished With Success!! 🤲 
-- 🏄  First **PYTHON** module completed! 👊
-- 🧑  Second **PYTHON** module completed! 👊
+- 🏄  First **PYTHON** Module Completed! 👊
+- 🧑  Second **PYTHON** Module Completed! 👊
 - 🏄  Third **PYTHON** In Process.... 🏄
 - 😰  **Html5 - Css3 - JavaScripT** Finished the Basic!! 🤲
 - 😰  **Html5 - Css3 - JavaScripT** Intermediary in Progress!! 🤲
