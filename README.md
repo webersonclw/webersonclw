@@ -80,9 +80,9 @@
 
 <footer align="center">
   <p align="center">
-    -=|<strong>Se alguem quiser me dar uma chance de estagio!</strong>|=-<br>
-    -=|📫 Me chame por aqui:webersonclw@yahoo.com.br|=-<br>
-    -=|ou pelo meu insta: 📷 https://www.instagram.com/webersonmalu/=-
+    -=><strong>Se alguem quiser me dar uma chance de estagio!</strong><=<br>
+    -=>Contato :webersonclw@yahoo.com.br<=-<br>
+    -=> Ou pelo meu insta: 📷 https://www.instagram.com/webersonmalu/<=-
   </p>
   <br>
   <p align="center">
