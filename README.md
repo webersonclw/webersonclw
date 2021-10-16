@@ -18,7 +18,7 @@
 -->
   - 👋 Hi, I’m @webersonclw
   - 👀 I’m interested in ... LEARN PROGRAMMING AND BE ABLE TO CHANGE AREAS
-  - 🌱 I’m currently learning ...PYTHON; GIT AND GITHUB; HTML5!!
+  - 🌱 I’m currently learning ... PYTHON; GIT AND GITHUB; HTML5, CSS3, JAVASCRIPT.!!
   - 💞️ I’m looking to collaborate on ... WHAT IT NEEDS TO EVOLVE</br>
 <header>
   <h1>Hello Mr Recruiters Here Are Some Of My First Projects</h1>  
