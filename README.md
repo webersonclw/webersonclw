@@ -18,11 +18,11 @@
 -->
 
 <header>
-  <h1>Hello Sr Recruiters Here Are Some Of My First Projects</h1>  
+  <h1>Hello Mr Recruiters Here Are Some Of My First Projects</h1>  
   <br>
   <article>
     <ul>
-      <li align="left">My name is <i>Wéberson</i>, I'm Brazilian 🇧🇷, I'm in the first steps to become a programmer 🔭<strong>FrontEnd 🔭</strong> and 🔭<strong>BackEnd 🔭</strong>, I currently work as <strong>Technician</strong> in the company <a href="https://www.facebook.com/WCL.Sistemas.de.Seguranca01">WCL Sistemas de Segurança</a>, I'm still looking for a job in the area of ​​programming and/or Web developer.</li>
+      <li align="left">My name is <i>Wéberson</i>, I'm Brazilian 🇧🇷, I'm in the first steps to become a programmer 🔭<strong>FrontEnd 🔭</strong> and 🔭<strong>BackEnd 🔭</strong>, I currently work as <strong>Technician</strong> in the company <a href="https://www.facebook.com/WCL.Sistemas.de.Seguranca01">WCL Sistemas de Segurança</a>, I'm looking for a job in the area of ​​programming and/or Web developer.</li>
       <li align="right"> <strong>Hardware and Computer Specialist Technician.</strong></li>
       <li align="right">🔭 I am currently studying <strong>HTML5, CSS, JAVASCRIPT, PYTHON</strong>.</li>
     </ul>
@@ -34,8 +34,7 @@
       <img height="160vw" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webersonclw&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF" />
     </a>
   </section>
-  
-</header>
+  </header>
 
 <br>
 
@@ -91,7 +90,4 @@
   </p>
   <br>
   <p align="left">
-
 </footer>
-
-
