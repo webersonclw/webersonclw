@@ -91,7 +91,8 @@
   </p>
   <br>
     <p align="center">
-      Número de Visitas: <br> <img src="https://github.com/webersonclw" alt="Contador de Visitas">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<br> <img src="https://github.com/webersonclw" alt="Contador de Visitas">
     </p>
   <br>
   <p align="left">
