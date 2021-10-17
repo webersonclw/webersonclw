@@ -90,9 +90,9 @@
     => Ou pelo meu insta: 📷 https://www.instagram.com/webersonmalu/
   </p>
   <br>
-  <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas">
-  </p>
+    <p align="center">
+      Número de Visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="Contador de Visitas">
+    </p>
   <br>
   <p align="left">
 </footer>
