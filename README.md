@@ -63,7 +63,6 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <a href="https://iconscout.com/icons/photoshop" target="_blank">Photoshop Logo Icon</a>
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
