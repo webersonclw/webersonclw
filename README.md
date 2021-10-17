@@ -62,7 +62,7 @@
     <kbd>Others</kbd>
     <br>
     <br>
-    <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+    <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
   </kbd>
