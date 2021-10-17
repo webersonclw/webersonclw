@@ -91,7 +91,7 @@
   </p>
   <br>
     <p align="center">
-      Número de Visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="Contador de Visitas">
+      Número de Visitas: <br> <img src="https://github.com/webersonclw" alt="Contador de Visitas">
     </p>
   <br>
   <p align="left">
