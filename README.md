@@ -92,7 +92,7 @@
   </p>
   <br>
     <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas"><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br>
-  <p align="left">
+      Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas"><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br>
+    <p align="left">
 </footer>
