@@ -63,6 +63,7 @@
     <br>
     <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 
   </kbd>
   <kbd>
@@ -91,13 +92,7 @@
   </p>
   <br>
     <p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas">
-    <img width="30px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br>
-  </p>
-  <br>
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas"><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br>
   <p align="left">
-    
 </footer>
-
-
-
