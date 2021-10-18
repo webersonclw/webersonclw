@@ -92,8 +92,12 @@
   <br>
     <p align="center">
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/webersonclw/count.svg" alt="contador de visitas">
+    <img width="30px" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/><br>
   </p>
   <br>
   <p align="left">
     
 </footer>
+
+
+
