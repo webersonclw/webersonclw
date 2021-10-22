@@ -37,9 +37,7 @@
     </a>
   </section>
   </header>
-
 <br>
-
 <section>
   <kbd>
     <kbd>Front-end</kbd>
@@ -48,7 +46,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -64,7 +61,6 @@
     <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img width="30px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
