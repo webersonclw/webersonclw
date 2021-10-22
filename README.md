@@ -85,7 +85,7 @@
 
 <footer align="center">
   <p align="center">
-    =><strong> Se alguem quiser me dar uma chance de estagio!</strong><br>
+    =><strong> Se alguém puder me dar uma chance de estágio!</strong><br>
     => Contato : webersonclw@yahoo.com.br<br>
     => Visite Meu Linkedin: 📷 https://www.linkedin.com/in/weberson-santos-3b13aa21b/<br>
     => Ou pelo meu insta: 📷 https://www.instagram.com/webersonmalu/
